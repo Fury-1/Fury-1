@@ -1,6 +1,6 @@
-### Hi there 👋
-- 📫 How to reach me: aakahds001@gmail.com
-<!--
+### Hellow there 👋
+- 📫 How to reach me: aakahds001@gmail.com , aakashsuvarna30@gmail.com
+<!--               
 **Fury-1/Fury-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
